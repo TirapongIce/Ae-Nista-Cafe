@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "อเมริกาโน่เย็น",
+    "price": 45,
+    "type": "coffee",
+    "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 2,
+    "name": "อเมริกาโน่ส้มเย็น",
+    "price": 45,
+    "type": "coffee",
+    "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 3,
+    "name": "คาปูชิโน่เย็น",
+    "price": 45,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 4,
+    "name": "ลาเต้เย็น",
+    "price": 45,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 5,
+    "name": "เอสเปรสโซ่เย็น",
+    "price": 45,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 6,
+    "name": "อเมริกาโน่ร้อน",
+    "price": 40,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 7,
+    "name": "คาปูชิโน่ร้อน",
+    "price": 40,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 8,
+    "name": "ม็อคค่าเย็น",
+    "price": 45,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 9,
+    "name": "เอสช็อต",
+    "price": 15,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 10,
+    "name": "ลาเต้ร้อน",
+    "price": 40,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 11,
+    "name": "ม็อคค่าร้อน",
+    "price": 40,
+    "type": "coffee",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 12,
+    "name": "ชาเขียว",
+    "price": 45,
+    "type": "drink",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 13,
+    "name": "ชาเย็น",
+    "price": 45,
+    "type": "drink",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 14,
+    "name": "โกโก้",
+    "price": 45,
+    "type": "drink",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 15,
+    "name": "นมสด",
+    "price": 40,
+    "type": "drink",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 17,
+    "name": "เค้ก",
+    "price": 35,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 19,
+    "name": "เค้กหน้านิ่ม",
+    "price": 20,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 20,
+    "name": "น้ำพริก",
+    "price": 50,
+    "type": "sauce",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 21,
+    "name": "ไอศครีม",
+    "price": 35,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  },
+  {
+    "id": 22,
+    "name": "เนยกรอบ",
+    "price": 30,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  } ,
+  {
+    "id": 23,
+    "name": "เค้กบ้านสวน",
+    "price": 35,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  }
+  ,
+  {
+    "id": 23,
+    "name": "บราวนี่",
+    "price": 20,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  }
+  ,
+  {
+    "id": 23,
+    "name": "พายกรอบ",
+    "price": 45,
+    "type": "dessert",
+     "image": "img/download.png",
+    "options": null
+  }
+]
